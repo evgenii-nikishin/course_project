@@ -1,1 +1,1 @@
-# someday it will be my course project
+# someday it will become my course project
